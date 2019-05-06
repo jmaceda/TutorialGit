@@ -8,3 +8,4 @@ if (environment.production) {
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule);
+// Este archivo que contiene este línea, solo es en el master.
